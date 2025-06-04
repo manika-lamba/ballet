@@ -1,0 +1,30 @@
+Year: 1926
+Ballet: A Tragedy of Fashion, or the Scarlet Scissors
+BalletCompany: Ballet Rambert
+Venue: None
+City: None
+Country: None
+For: None
+Choreographer1: Frederick Ashton
+Choreographer2: Ian Spink (for 2004 revival)
+Choreographer3: None
+Choreographer4: None
+Regisseur: None
+Muse1: Marie Rambert
+Muse2: None
+Muse3: None
+YearMusic1: 1926
+Composer1: Eugene Goossens
+YearMusic2: None
+Composer2: None
+YearArrangements: 1926
+Arrangements: Ernest Irving
+YearStory: 1671 (tragic suicide of François Vatel, the story the ballet is based on)
+BasedOn: The tragic suicide of 17th-century French chef, François Vatel
+Librettist: None
+CostumeDesigner: Sophie Fedorovitch
+Décor: Sophie Fedorovitch
+Scenery: None
+Other: None
+Other2: None
+Other3: Restyled by Ian Spink in 2004

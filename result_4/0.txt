@@ -1,0 +1,30 @@
+Year: 1854
+Ballet: A Folk Tale (Danish: Et Folkesagn)
+BalletCompany: Royal Danish Ballet
+Venue: Royal Danish Theatre
+City: Copenhagen
+Country: Denmark
+For: Royal Danish Ballet
+Choreographer1: August Bournonville
+Choreographer2: none
+Choreographer3: none
+Choreographer4: none
+Regisseur: none
+Muse1: none
+Muse2: none
+Muse3: none
+YearMusic1: 1854
+Composer1: Johan Peter Emilius Hartmann, Niels W. Gade
+YearMusic2: none
+Composer2: none
+YearArrangements: none
+Arrangements: none
+YearStory: 1854
+BasedOn: Danish folklore & Danish folk legends
+Librettist: none
+CostumeDesigner: Queen Margrethe II (For the 1991 production)
+Décor: none
+Scenery: none
+Other: Hans Beck, Gustav Uhlendorff, Kaj Smith, Harald Lander and Valborg Borschsenius,Niels-Bjørn Larsen and Gerda Karstens, Hans Brenaa and Kirsten Ralov, Kirsten Ralov, Frank Andersen and Anne Marie Vessel Schlüter (Successive Bournonville interpreters/répétiteurs)
+Other2: none
+Other3: none

@@ -1,0 +1,30 @@
+Year: 1976
+Ballet: A Month in the Country
+BalletCompany: The Royal Ballet
+Venue: The Royal Opera House
+City: London
+Country: England
+For: Anthony Dowell, Lynn Seymour
+Choreographer1: Frederick Ashton
+Choreographer2: None
+Choreographer3: None
+Choreographer4: None
+Regisseur: None
+Muse1: None
+Muse2: None
+Muse3: None
+YearMusic1: None
+Composer1: Frédéric Chopin
+YearMusic2: None
+Composer2: None
+YearArrangements: 1976
+Arrangements: John Lanchbery
+YearStory: None
+BasedOn: A Month in the Country by Ivan Turgenev
+Librettist: None
+CostumeDesigner: None
+Décor: None
+Scenery: None
+Other: Later interpreters include Merle Park, Sylvie Guillem, Michael Coleman, Mikhail Baryshnikov, Bruce Sansom, Ivan Putrov 
+Other2: Performed by the National Ballet of Canada in 1995
+Other3: Original cast includes Lynn Seymour, Alexander Grant, Wayne Sleep, Denise Nunn, Derek Rencher, Marguerite Porter, Anthony Conway, Anthony Dowell.

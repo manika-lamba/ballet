@@ -1,0 +1,30 @@
+Year: 1946
+Ballet: Adam Zero
+BalletCompany: The Sadler's Wells Ballet
+Venue: Royal Opera House, Covent Garden
+City: London
+Country: England
+For: none
+Choreographer1: Robert Helpmann
+Choreographer2: Sergei Vanaev (revival in 2016)
+Choreographer3: none
+Choreographer4: none
+Regisseur: none
+Muse1: David Paltenghi (The Stage Director)
+Muse2: June Brae (The Choreographer / The Ballerina)
+Muse3: Robert Helpmann (Adam Zero)
+YearMusic1: 1946
+Composer1: Arthur Bliss
+YearMusic2: none
+Composer2: none
+YearArrangements: none
+Arrangements: none
+YearStory: 1946
+BasedOn: Allegory of the cycle of man's life
+Librettist: none
+CostumeDesigner: none
+Décor: none
+Scenery: none
+Other: Première conducted by Constant Lambert
+Other2: Revived in 2016 at Stadttheater Bremerhaven conducted by Marc Niemann
+Other3: Music described as "instinctively theatrical and strongly characterized".

@@ -1,0 +1,30 @@
+Year: 1994
+Ballet: A Suite of Dances
+BalletCompany: White Oak Dance Project
+Venue: New York State Theater
+City: New York
+Country: United States
+For: Mikhail Baryshnikov
+Choreographer1: Jerome Robbins
+Choreographer2: None
+Choreographer3: None
+Choreographer4: None
+Regisseur: None
+Muse1: Mikhail Baryshnikov
+Muse2: None
+Muse3: None
+YearMusic1: Unknown
+Composer1: Johann Sebastian Bach
+YearMusic2: None
+Composer2: None
+YearArrangements: None
+Arrangements: None
+YearStory: None
+BasedOn: Bach's Cello Suites
+Librettist: None
+CostumeDesigner: Santo Loquasto
+Décor: None
+Scenery: None
+Other: This ballet was performed by a single dancer, and the creation process and choreography took place over the course of 2 years.
+Other2: Music includes "Prelude from Suite No. 1 in G major, BWV 1007", "Sarabande from Suite No. 5 in C minor, BWV 1011", "Gigue from Suite No. 1 in G major, BWV 1007", "Prelude from Suite No. 6 in D major, BWV 1012".
+Other3: The ballet was revived at the New York City Ballet and the Paris Opera Ballet.

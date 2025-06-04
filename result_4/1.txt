@@ -1,0 +1,29 @@
+Year: 1962
+Ballet: A Midsummer Night's Dream
+BalletCompany: New York City Ballet
+Venue: New York State Theater
+City: New York
+Country: USA
+Choreographer1: George Balanchine
+Choreographer2: None
+Choreographer3: None
+Choreographer4: None
+Regisseur: None
+Muse1: Edward Villella (Oberon)
+Muse2: Melissa Hayden (Titania)
+Muse3: Arthur Mitchell (Puck)
+YearMusic1: None
+Composer1: Felix Mendelssohn
+YearMusic2: None
+Composer2: None
+YearArrangements: None
+Arrangements: None
+YearStory: 1962
+BasedOn: A Midsummer Night's Dream by William Shakespeare
+Librettist: None
+CostumeDesigner: None
+Décor: None
+Scenery: New York State Theater
+Other: Premiered at New York City Ballet on 17 January 1962
+Other2: First completely original full-length ballet by Balanchine
+Other3: A two-act ballet featuring a large children's corps de ballet.
