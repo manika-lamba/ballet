@@ -1,0 +1,30 @@
+Year: 1994  
+Ballet: A Suite of Dances  
+Ballet Company: White Oak Dance Project  
+Venue: New York State Theater  
+City: New York  
+Country: USA  
+For: Mikhail Baryshnikov  
+Choreographer1: Jerome Robbins  
+Choreographer2: None  
+Choreographer3: None  
+Choreographer4: None  
+Regisseur: None  
+Muse1: None  
+Muse2: None  
+Muse3: None  
+YearMusic1: Prelude from Suite No. 1 in G major, BWV 1007  
+Composer1: Johann Sebastian Bach  
+YearMusic2: Sarabande from Suite No. 5 in C minor, BWV 1011  
+Composer2: Johann Sebastian Bach  
+YearArrangements: None  
+Arrangements: None  
+YearStory: None  
+Based On: None  
+Librettist: None  
+Costume Designer: Santo Loquasto  
+Décor: None  
+Scenery: None  
+Other: Premiered on March 3, 1994, solo of 16 minutes  
+Other2: Revived by various companies  
+Other3: None  

@@ -1,0 +1,30 @@
+Year: 1962
+Ballet: A Midsummer Night's Dream
+Ballet Company: New York City Ballet
+Venue: New York State Theater
+City: New York
+Country: USA
+For: Shakespeare's play of the same name
+Choreographer1: George Balanchine
+Choreographer2: none
+Choreographer3: none
+Choreographer4: none
+Regisseur: none
+Muse1: none
+Muse2: none
+Muse3: none
+YearMusic1: 1962
+Composer1: Felix Mendelssohn
+YearMusic2: none
+Composer2: none
+YearArrangements: none
+Arrangements: Overtures to Athalie, Son and Stranger, The Fair Melusine, the "String Symphony No. 9 in C minor", The First Walpurgis Night
+YearStory: 1964
+BasedOn: Shakespeare's play "A Midsummer Night's Dream"
+Librettist: none
+CostumeDesigner: none
+Décor: none
+Scenery: none
+Other: Balanchine's first original full-length ballet
+Other2: Large children's corps de ballet
+Other3: none

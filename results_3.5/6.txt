@@ -1,0 +1,30 @@
+Year: 1995
+Ballet: Adams Violin Concerto
+BalletCompany: New York City Ballet
+Venue: New York State Theater, Lincoln Center
+City: New York
+Country: United States
+For: Minnesota Orchestra and City Ballet
+Choreographer1: Peter Martins
+Choreographer2: none
+Choreographer3: none
+Choreographer4: none
+Regisseur: none
+Muse1: none
+Muse2: none
+Muse3: none
+YearMusic1: 1994
+Composer1: John Adams
+YearMusic2: none
+Composer2: none
+YearArrangements: none
+Arrangements: none
+YearStory: none
+BasedOn: none
+Librettist: none
+CostumeDesigner: none
+Décor: none
+Scenery: none
+Other: Original cast includes Darci Kistler, Wendy Whelan, Jock Soto, Nikolaj Hübbe, Nilas Martins
+Other2: none
+Other3: none

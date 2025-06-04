@@ -1,0 +1,30 @@
+Year: 1946
+Ballet: Adam Zero
+Ballet Company: The Sadler’s Wells Ballet
+Venue: Royal Opera House, Covent Garden
+City: London
+Country: United Kingdom
+For: Neoclassical ballet
+Choreographer1: Robert Helpmann
+Choreographer2: none
+Choreographer3: none
+Choreographer4: none
+Regisseur: none
+Muse1: none
+Muse2: none
+Muse3: none
+YearMusic1: 1946
+Composer1: Arthur Bliss
+YearMusic2: none
+Composer2: none
+YearArrangements: none
+Arrangements: none
+YearStory: none
+Based On: none
+Librettist: none
+Costume Designer: none
+Décor: none
+Scenery: none
+Other: The Stage Director, The Principal Dancer ‘Adam Zero’, The Designer, Wardrobe Mistress, Dresser, The Ballerina, The Understudies, The Character Dancers, The Mime
+Other2: The orchestra is augmented by various instruments like cor anglais, saxophone, tuba, percussionists, celesta, and harp.
+Other3: The ballet Adam Zero is a 40-minute allegory of the cycle of man’s life, where Adam's life, success, downfall, and confronting Death are depicted.

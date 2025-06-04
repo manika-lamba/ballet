@@ -1,0 +1,30 @@
+Year: 1912
+Ballet: L'Après-midi d'un faune
+Ballet Company: Ballets Russes
+Venue: Théâtre du Châtelet in Paris
+City: Paris
+Country: France
+For: Sergei Diaghilev
+Choreographer1: Vaslav Nijinsky
+Choreographer2: none
+Choreographer3: none
+Choreographer4: none
+Regisseur: Grigoriev
+Muse1: none
+Muse2: none
+Muse3: none
+YearMusic1: none
+Composer1: Claude Debussy
+YearMusic2: none
+Composer2: none
+YearArrangements: none
+Arrangements: none
+YearStory: none
+BasedOn: L'Après-midi d'un faune by Stéphane Mallarmé
+Librettist: none
+CostumeDesigner: Léon Bakst
+Décor: Woodland glade
+Scenery: Stage setting designed by Léon Bakst
+Other: L'Après-midi d'un Faune is considered one of the first modern ballets
+Other2: The ballet was influenced by ancient Greek vases and Egyptian and Assyrian frescoes
+Other3: The ballet has been reconstructed and performed by other companies following its premiere.

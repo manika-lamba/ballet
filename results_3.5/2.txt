@@ -1,0 +1,30 @@
+Year: 1976
+Ballet: A Month in the Country
+Ballet Company: The Royal Ballet
+Venue: Royal Opera House
+City: London
+Country: UK
+For: Narrative ballet
+Choreographer1: Frederick Ashton
+Choreographer2: none
+Choreographer3: none
+Choreographer4: none
+Regisseur: None
+Muse1: Sophie Fedorovitch
+Muse2: Bronislava Nijinska
+Muse3: none
+YearMusic1: none
+Composer1: Frédéric Chopin
+YearMusic2: none
+Composer2: none
+YearArrangements: 1977
+Arrangements: John Lanchbery
+YearStory: none
+Based On: A Month in the Country by Ivan Turgenev
+Librettist: None
+Costume Designer: None
+Décor: None
+Scenery: None
+Other: Originally performed with Lynn Seymour and Anthony Dowell
+Other2: Adaptation praised by Peggy Ashcroft
+Other3: None
